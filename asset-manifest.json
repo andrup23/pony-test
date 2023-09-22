@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.93b4c5dc.css",
+    "main.js": "./static/js/main.4f0f14fa.js",
+    "static/js/787.748328a5.chunk.js": "./static/js/787.748328a5.chunk.js",
+    "static/media/ponyrojo.jpg": "./static/media/ponyrojo.4caee51a3f50b8358755.jpg",
+    "index.html": "./index.html",
+    "main.93b4c5dc.css.map": "./static/css/main.93b4c5dc.css.map",
+    "main.4f0f14fa.js.map": "./static/js/main.4f0f14fa.js.map",
+    "787.748328a5.chunk.js.map": "./static/js/787.748328a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b4c5dc.css",
+    "static/js/main.4f0f14fa.js"
+  ]
+}
